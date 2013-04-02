@@ -1,3 +1,4 @@
+//This is the code I wrote from instructions in Codecademy. The words are theirs, but it's an example of where I'm starting from. 
 confirm("I am ready to play!")
 var age = prompt("What's your age?")
 if (age < 18)
